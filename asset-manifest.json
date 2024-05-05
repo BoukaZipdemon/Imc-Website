@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Imc-Website/static/css/main.13690f5a.css",
+    "main.js": "/Imc-Website/static/js/main.42f1475d.js",
+    "static/js/453.68693753.chunk.js": "/Imc-Website/static/js/453.68693753.chunk.js",
+    "static/media/slick.svg": "/Imc-Website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Imc-Website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Imc-Website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Imc-Website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Imc-Website/index.html",
+    "main.13690f5a.css.map": "/Imc-Website/static/css/main.13690f5a.css.map",
+    "main.42f1475d.js.map": "/Imc-Website/static/js/main.42f1475d.js.map",
+    "453.68693753.chunk.js.map": "/Imc-Website/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13690f5a.css",
+    "static/js/main.42f1475d.js"
+  ]
+}
